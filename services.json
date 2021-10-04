@@ -16,5 +16,23 @@
         "icon": "https://i.postimg.cc/J4npkXHB/medical.png",
         "title": "Medical Services",
         "description": "Nulla sed leo. Class apte taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\r\n"
+    },
+    {
+        "_id": "615b00a9c65b32c8861b90c0",
+        "icon": "https://i.postimg.cc/qBjC30RZ/good-teacher.png",
+        "title": "Expert & Good tutor",
+        "description": "Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi ullamcorper vehicula.\r\n"
+    },
+    {
+        "_id": "615b00a9fe15d6f659a82b78",
+        "icon": "https://i.postimg.cc/MHPM20N8/parents.png",
+        "title": "Connected with parents",
+        "description": "PMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.\r\n"
+    },
+    {
+        "_id": "615b00a9435d5ce680b178d2",
+        "icon": "https://i.postimg.cc/XJWywYdt/school-bus.png",
+        "title": "School Bus",
+        "description": "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in.\r\n"
     }
 ]
