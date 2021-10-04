@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "615abfce0db4b1a61cd34b9e",
+        "picture": "https://i.postimg.cc/gkTNq03t/love-and-care.png",
+        "title": "Love & Care",
+        "description": "Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.\r\n"
+    },
+    {
+        "_id": "615abfcec8b09e90c70971c2",
+        "picture": "https://i.postimg.cc/x1NgsSRf/sports.png",
+        "title": "Many indoor & outdoor games",
+        "description": "Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.\r\n"
+    },
+    {
+        "_id": "615abfce5c7f3a5836986029",
+        "picture": "https://i.postimg.cc/J4npkXHB/medical.png",
+        "title": "Medical Services",
+        "description": "Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.\r\n"
+    }
+]
