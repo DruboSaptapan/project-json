@@ -1,19 +1,19 @@
 [
     {
         "_id": "615abfce0db4b1a61cd34b9e",
-        "picture": "https://i.postimg.cc/gkTNq03t/love-and-care.png",
+        "icon": "https://i.postimg.cc/gkTNq03t/love-and-care.png",
         "title": "Love & Care",
         "description": "Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.\r\n"
     },
     {
         "_id": "615abfcec8b09e90c70971c2",
-        "picture": "https://i.postimg.cc/x1NgsSRf/sports.png",
+        "icon": "https://i.postimg.cc/x1NgsSRf/sports.png",
         "title": "Many indoor & outdoor games",
         "description": "PMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.\r\n"
     },
     {
         "_id": "615abfce5c7f3a5836986029",
-        "picture": "https://i.postimg.cc/J4npkXHB/medical.png",
+        "icon": "https://i.postimg.cc/J4npkXHB/medical.png",
         "title": "Medical Services",
         "description": "Nulla sed leo. Class apte taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\r\n"
     }
